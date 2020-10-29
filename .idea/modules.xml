@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyric-service/lyric-service.iml" filepath="$PROJECT_DIR$/lyric-service/lyric-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nguyen-kbe-ms.iml" filepath="$PROJECT_DIR$/nguyen-kbe-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/song-service/song-service.iml" filepath="$PROJECT_DIR$/song-service/song-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-coverage/test-coverage.iml" filepath="$PROJECT_DIR$/test-coverage/test-coverage.iml" />
+    </modules>
+  </component>
+</project>
